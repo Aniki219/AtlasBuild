@@ -73,7 +73,7 @@ You can change outfit colors by holding the change-outfit key, selecting with a 
 **Cancel Broom**: Jump, Broom, or Attack while on broom\
 **Jump off broom**: Jump while on broom (with double jump unlocked)
 
-(Upgrades can be activated by pressing numpad *)
+(Upgrades can be activated by pressing **Numpad ***)\
 **Double-Jump**: (Jump -> Jump)\
 **Wall-Jump**: (Press against wall in mid-air + Jump)
 ![Screenshot](images/walljump.png)\
