@@ -90,7 +90,8 @@ Berries "pop" when hit by an attack or when bumped into while riding your broom.
 | --- | --- | --- |
 | Bounce Berry | Green | Forces Atlas to jump even if she's in mid air- does not count as double jumping |
 | Woosh Berry | Red | Forces Atlas on her broom even if she's already used it. Works even if Broom has already been used |
-| Bomb Berries | Blue | Can blow up rocks and are affected by other berries:<br />- Bombs bounce off bounce berries.<br />- Bombs are given wings and will fly forward on collision with woosh berries.<br />- Bomb berries can be picked by the player when collided against while on broom. Berries can be dropped by canceling the broom |
+| Bomb Berries | Blue | Can blow up rocks and are affected by other berries:<br />- Bombs bounce off bounce berries.<br />- Bombs are given wings and will fly forward on collision with woosh berries.<br />- Bomb berries can be picked by the player when collided against while on broom. Berries can be dropped by canceling the broom |\
+
 ![Screenshot](images/bombberry.png)\
   
 # Speed Run:
